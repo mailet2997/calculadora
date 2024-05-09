@@ -17,6 +17,9 @@ function calcular(num1, num2, op){
 
 //Leison
 
-//Valeria
+//Valeria multiplicar
+function multi(num1,num2){
+    return num1*num2;
+}
 
 //Dumar
