@@ -16,7 +16,9 @@ function calcular(num1, num2, op){
 }
 
 //Leison
-
+function(num1,num2){
+    return (num1 + num2)
+}
 //Valeria
 
 //Dumar
