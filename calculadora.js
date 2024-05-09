@@ -16,10 +16,18 @@ function calcular(num1, num2, op){
 }
 
 //Leison
-function(num1,num2){
+function sumar(num1,num2){
     return (num1 + num2)
 }
+
 //Valeria
+//Valeria multiplicar
+function multi(num1,num2){
+    return num1*num2;
+}
+
+
+
 
 //Dumar
 hhhh
